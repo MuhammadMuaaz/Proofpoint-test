@@ -26,4 +26,4 @@ REM 		/log [Path_To_Log_File] – by default will be create in %TEMP% directory
 REM Example for installation:
 @echo on
 
-ITMSaaSBundle-2.7.0.312.exe /install /quiet /norestart contentdetection=1 TargetDir="%ProgramFiles%\IT Client Utility\Client Utility" PreConfigPath="C:\Temp\preconfig.json" /log ITMSaaSBundle_SetupLog.log
+ITMSaaSBundle-2.7.0.312.exe /install /quiet /norestart contentdetection=1 TargetDir="%ProgramFiles%\IT Client Utility\Client Utility" PreConfigPath="C:\Users\vboxuser\Downloads\afiniti-poc-realm_agent_install_config.json" /log ITMSaaSBundle_SetupLog.log
