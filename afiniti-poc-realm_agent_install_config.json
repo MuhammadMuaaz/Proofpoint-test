@@ -1,0 +1,42 @@
+{
+  "service": {
+    "id": "ffffffff-ffff-ffff-ffff-ffffffffffff",
+    "instanceId": "ffffffff-ffff-ffff-ffff-ffffffffffff",
+    "tenant": 1746795054,
+    "region": "us-east-1",
+    "realm": "afiniti-poc-realm",
+    "version": 1,
+    "kind": "agent:saas",
+    "identityId": "ecc6f921-ba7d-4ea2-a47e-4274dba2b326"
+  },
+  "resources": {
+    "apis": {
+      "installationRegistry": {
+        "url": "https://api.ingest.oitroot.us-east-1-op1.op.observeit.net/v2/apis/registry",
+        "headers": {
+          "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJpdDpyZWdpc3RyeTprZXkvNDUwZTAwY2QtMzdlMy00OWU3LTk5NzktYmM5YmY5ODM4ZjYwIiwianRpIjoiMGE1ZmM0ZTMtN2JmNC00YWZjLThhMDItZTUwYmM4ZmM3NTE3IiwiaWF0IjoxNjc4MDYxNjQyLCJleHAiOjE2ODA2NTM2NDIsInN1YiI6ImVjYzZmOTIxLWJhN2QtNGVhMi1hNDdlLTQyNzRkYmEyYjMyNiIsInNjb3BlIjpbIml0OnJlZ2lzdHJ5OlBPU1Q6aW5zdGFuY2VzIiwiaXQ6cmVnaXN0cnk6Y3JlYXRlSW5zdGFuY2UiXSwiYXVkIjoiZjU1ZDMwNDgtOWRlOS00NTE4LTlhNTEtNWYzYTBkMGE4YTBiIiwidGVuIjoxNzQ2Nzk1MDU0LCJwcm9maWxlIjp7ImtpbmQiOiJhZ2VudDpzYWFzIiwicmVhbG0iOiJhZmluaXRpLXBvYy1yZWFsbSIsInJlZ2lvbiI6InVzLWVhc3QtMSJ9LCJpbnMiOiJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi1mZmZmZmZmZmZmZmYiLCJjdXMiOiJlNTc4YjAzOS0wNTkwLTMwNzMtOTFkNy00MzU2YTVjNzY5YTkifQ.FuWGYEoXthcmjvjOEqwlv0ZjHlzHsci4_3GfAFyNKetWpnwS_wPhvjd7i1e9auvf5R9dQeBASjH-u5oG22ryd0qXqanluUu-SasIxoQRNu-mUphuHSA1e41sYvDp0iSdGIy9anI6_4PtpC5IMxjaQ-qhKZy8raJ25RVsAxmeW85Xo_o7fICiQdsE51C0DBd_eKWO5lhRqBhl-1PYEMVnHdl_9lwnOZ-mbc7hg2Tzq8V3Kl-CrTbY6eTwC8jrywdgBQogBtqVcB76C0JUeYVGPpn2KC2PWDRIxtLfz_y_YVqgYlz00kJPYTcARSy4fsgc6vCe27OAd_E9gmE-x445LQ"
+        }
+      }
+    }
+  },
+  "instance": {
+    "id": "ffffffff-ffff-ffff-ffff-ffffffffffff",
+    "instanceId": "ffffffff-ffff-ffff-ffff-ffffffffffff",
+    "tenant": 1746795054,
+    "region": "us-east-1",
+    "realm": "afiniti-poc-realm",
+    "version": 1,
+    "kind": "agent:saas",
+    "identityId": "ecc6f921-ba7d-4ea2-a47e-4274dba2b326"
+  },
+  "component": {
+    "id": "ffffffff-ffff-ffff-ffff-ffffffffffff",
+    "instanceId": "ffffffff-ffff-ffff-ffff-ffffffffffff",
+    "tenant": 1746795054,
+    "region": "us-east-1",
+    "realm": "afiniti-poc-realm",
+    "version": 1,
+    "kind": "agent:saas",
+    "identityId": "ecc6f921-ba7d-4ea2-a47e-4274dba2b326"
+  }
+}
